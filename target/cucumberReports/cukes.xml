@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.437">
+    <testcase classname="Title of your feature" name="Title of your scenario" time="13.022">
+        <system-out><![CDATA[Given open home page........................................................passed
+Then Asserting Thinking in HTML book exist along with its price.............passed
+When Clicking on Add to Basket for Thinking in HTML book....................passed
+When Clicking on Shopping Cart..............................................passed
+Then Asserting Item added to cart with its details..........................passed
+When Clicking on Proceed to Checkout........................................passed
+Then Assert Billing Details form displayed..................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
